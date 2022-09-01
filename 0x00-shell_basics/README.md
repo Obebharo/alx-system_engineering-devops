@@ -4,3 +4,4 @@ third script is a command that changes working directory to users home directory
 Fourth task shows command to display current directory contents in a long format
 task 4gives a command that display current directory contents including hidden files.
 task 6 shows command to display current dir contents
+Task 7 displays command to create directory inside tmp
